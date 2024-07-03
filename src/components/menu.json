@@ -1,0 +1,87 @@
+[
+    {
+        "starters":{
+            "starter1": {
+                "dish": "Tandrooi Chicken",
+                "descriptions": "Tender quarter of chicken marinated in yoghurt with special spices, barbecued on charcoal in a clay oven",
+                "price": 4.95
+            },
+            "starter2": {
+                "dish": "Kebab Bashari",
+                "descriptions": "Chicken tikka, lamb tikka & sheek kebab",
+                "price": 6.95
+            },
+            "starter3": {
+                "dish": "Onion Bhajee",
+                "descriptions": "Finely sliced onion mix with chick pea flour and dry spicys ",
+                "price": 4.95
+            },
+            "starter4": {
+                "dish": "King Prawn Puree",
+                "descriptions": "King Prawn cooked with spices, fresh coriander and served on a pancake",
+                "price": 7.95
+            },
+            "starter5": {
+                "dish": "Vegtable Samosa",
+                "descriptions": "Mixed vegtables lightly spiced and stuffed in a pastry",
+                "price": 4.95
+            }
+        },
+
+        "mains":{
+            "main1": {
+                "dish": "Tandoori Mixed Platter" ,
+                "descriptions": "An amazing selection of tandoori delicacies - chicken tikka, lamb tikka, tandoori chicken and sheek kebab, served with salad",
+                "price": 11.95
+            },
+            "main2": {
+                "dish": "Chicken Tikka Massala",
+                "descriptions": "Cooked in a special massala sauce",
+                "price": 11.95
+            },
+            "main3": {
+                "dish": "Kacha Murgh Massala",
+                "descriptions": "Dry dish, hot cooked with red peppers, fresh green chilli, spring onion, mustard powder & served on a Balti dish",
+                "price": 12.95
+            },
+            "main4": {
+                "dish": "King Prawn Mitakhora",
+                "descriptions": "Said to be fit for the kings' table, this seafood banquet comprises of 3 whole large king prawns cooked in dry roasted spices garnished with tamarind shallots, and peppers. This dish is certain to make you a ‘Tabaq’ addict",
+                "price": 16.95
+            },
+            "main5": {
+                "dish": "Chicken Korma",
+                "descriptions": "Mild & creamy",
+                "price": 8.25
+            }
+        },
+
+        "sides":{
+            "side1": {
+                "dish": "Pilau Rice",
+                "descriptions": "Fried basmati rice",
+                "price": 3.25
+            },
+            "side2": {
+                "dish": "Special Fried Rice",
+                "descriptions": "With spices, eggs, peas, carrots",
+                "price": 3.95
+            },
+            "side3": {
+                "dish": "Keema Rice",
+                "descriptions": "With minced meat",
+                "price": 3.95
+            },
+            "side4": {
+                "dish": "Garlic Nan",
+                "descriptions": "Chopped garlic",
+                "price": 2.95
+            },
+            "side5": {
+                "dish": "Plain Papadam",
+                "descriptions": "fried crips",
+                "price": 0.85
+            }
+        }
+    }
+]

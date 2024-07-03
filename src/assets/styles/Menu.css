@@ -1,0 +1,25 @@
+
+
+.menu{
+    width: 430px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px;
+    background-image: url(./images/background.png);
+   
+    padding: 15px;
+
+
+}
+
+h6{
+    text-wrap: wrap;
+    text-align: center;
+}
+
+button{
+    width: 30px;
+    height: 30px;
+    justify-items: end;
+}
